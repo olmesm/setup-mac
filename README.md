@@ -1,14 +1,13 @@
 # Setup Mac
 
-Run Step 1
-
 ```sh
+# Clone this repo
+git clone https://github.com/olmesm/setup-mac
+
+# Run Step 1
 sh setup-mac-dev-step-1.sh
-```
 
-Close Terminal and re-open iterm, then run Step 2
-
-```sh
+# Close Terminal and re-open iterm, then run Step 2
 sh setup-mac-dev-step-2.sh
 ```
 
