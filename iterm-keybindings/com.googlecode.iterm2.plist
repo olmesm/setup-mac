@@ -702,7 +702,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/oliver.smit</string>
+			<string>%%HOME%%</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -1321,7 +1321,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/oliver.smit</string>
+			<string>%%HOME%%</string>
 		</dict>
 	</array>
 	<key>NoSyncAllAppVersions</key>
@@ -2075,7 +2075,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/admin/.iterm-settings</string>
+	<string>%%HOME%%/iterm-settings</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
